@@ -4,7 +4,7 @@ indent() {
   sed -u 's/^/       /'
 }
 
-echo "-----> Install ffmpeg"
+echo "-----> Download antiword resources"
 DOWNLOAD_URL="https://raw.githubusercontent.com/verbit-ai/heroku-binaries/master/antiword-resources.tar.gz"
 
 echo "DOWNLOAD_URL = " $DOWNLOAD_URL | indent
