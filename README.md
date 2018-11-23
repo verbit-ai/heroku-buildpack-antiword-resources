@@ -1,0 +1,2 @@
+Heroku buildpack: antiword-resources
+=======================
